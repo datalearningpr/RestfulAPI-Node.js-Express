@@ -22,7 +22,7 @@ npm install
 
 Open the CMD in the app folder, run the following command:
 ```
-node run app.js
+node app.js
 ```
 
 ## License
